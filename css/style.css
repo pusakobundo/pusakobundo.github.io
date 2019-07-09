@@ -1,1 +1,48 @@
+/* Start Body */
 
+body {
+    background-image: url('../images/background1.jpg');
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+
+}
+
+.judul {
+    color: black ;
+}
+
+.subjudul {
+    font-style: italic ;
+color:deeppink ;
+}
+
+.pg1 {
+    font-size: 40px ;
+}
+
+.pg2 {
+    font-size: x-small ;
+}
+
+.pg3 {
+    font-size: 20px ;
+}
+
+/* End Body */
+
+/* Start Debug */
+.bg-blue {
+    background-color: blue;
+}
+.bg-red {
+    background-color: red;
+/* End Debug */
+
+/* Start Container*/
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+/* Start Container*/
